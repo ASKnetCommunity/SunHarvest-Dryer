@@ -10,15 +10,20 @@ By the end of this training, participants will be able to:
 - Understand the principles of solar drying and its advantages over traditional methods.
 - Construct a SunHarvest Dryer using locally available materials.
 - Apply DIY (Do It Yourself) and DIWO (Do It With Others) methodologies to promote sustainable practices within their communities.
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/8da89cf4-8a0f-4b92-9862-40f081c40693" width="30%" alt="_MG_5399_11zon (1)">
+  <img src="https://github.com/user-attachments/assets/cf66c006-f367-4489-afcb-8b67cae43a56" width="30%" alt="_MG_5398_11zon (1)">
+  <img src="https://github.com/user-attachments/assets/e5dcb9e6-3329-428f-aa33-e10c4477faad" width="30%" alt="_MG_5406_11zon (2)">
+</div>
 
 ## Table of Contents
 1. [Introduction](README.md#introduction)
 2. [Principles of Operation](README.md#principles-of-operation)
 3. [Literature review and advantages of this prototype](Advantages%20of%20the%20SunHarvest%20Dryer.md)
-4. [Tools & Materials](Tools%20and%20materials%20used.md)
+4. [Tools & Materials](tools_materials_used.md)
 5. [Construction Steps](Step_by_Step_Construction_Procedure.md#step-by-step-guide)
     - [Build the Frame](/Step_by_Step_Construction_Procedure.md#step-1-build-the-frame)
-    - [Install the Trays](/Step_by_Step_Construction_Procedure.md#step-2-install-the-trays)
+    - [Install the Trays](/Step_by_Step_Construction_Procedure.md#step-2-install-the-trays-optional)
     - [Cover the Inner Surface](/Step_by_Step_Construction_Procedure.md#step-3-cover-the-inner-surface-with-black-dpc-polythene)
     - [Attach the Cover](/Step_by_Step_Construction_Procedure.md#step-4-attach-the-cover)
     - [Add Ventilation](/Step_by_Step_Construction_Procedure.md#step-5-add-ventilation)
